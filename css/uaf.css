@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'platinum-signature';
+    src: url(/wp-content/uploads/useanyfont/3182Platinum-Signature.woff2) format('woff2'), url(/wp-content/uploads/useanyfont/3182Platinum-Signature.woff) format('woff');
+    font-display: auto
+}
+
+.platinum-signature {
+    font-family: 'platinum-signature' !important
+}
+
+@font-face {
+    font-family: 'aaccountantsignature';
+    src: url(/wp-content/uploads/useanyfont/5818aAccountantSignature.woff2) format('woff2'), url(/wp-content/uploads/useanyfont/5818aAccountantSignature.woff) format('woff');
+    font-display: auto
+}
+
+.aaccountantsignature {
+    font-family: 'aaccountantsignature' !important
+}
+
+@font-face {
+    font-family: 'great-sejagad';
+    src: url(/wp-content/uploads/useanyfont/7673Great-Sejagad.woff2) format('woff2'), url(/wp-content/uploads/useanyfont/7673Great-Sejagad.woff) format('woff');
+    font-display: auto
+}
+
+.great-sejagad {
+    font-family: 'great-sejagad' !important
+}
+
+@font-face {
+    font-family: 'maytra';
+    src: url(/wp-content/uploads/useanyfont/7432Maytra.woff2) format('woff2'), url(/wp-content/uploads/useanyfont/7432Maytra.woff) format('woff');
+    font-display: auto
+}
+
+.maytra {
+    font-family: 'maytra' !important
+}
+
+@font-face {
+    font-family: 'rumpi';
+    src: url(/wp-content/uploads/useanyfont/646Rumpi.woff2) format('woff2'), url(/wp-content/uploads/useanyfont/646Rumpi.woff) format('woff');
+    font-display: auto
+}
+
+.rumpi {
+    font-family: 'rumpi' !important
+}
